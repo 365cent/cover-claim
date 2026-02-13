@@ -1,0 +1,19 @@
+{
+  "name": "wechat-lucky-covers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.1.2",
+    "qrcode-generator": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.0.3"
+  }
+}

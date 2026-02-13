@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hongbao.mcpplca.net/sitemap.xml

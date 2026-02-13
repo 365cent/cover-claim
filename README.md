@@ -1,4 +1,4 @@
-# 微信红包封面领取 - WeChat Lucky Money Covers
+# WeChat Lucky Money Covers
 
 A lightweight, SEO-optimized lucky money cover collection page built with Lit
 web components.
